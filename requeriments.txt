@@ -1,2 +1,3 @@
 streamlit
 pandas
+https://github.com/hermann601dev/gastos/settings
