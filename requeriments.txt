@@ -1,3 +1,4 @@
 streamlit
 pandas
-https://github.com/hermann601dev/gastos/settings
+gspread
+oauth2client
